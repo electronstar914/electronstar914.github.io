@@ -15,13 +15,13 @@ You'll also need the password 84b12bae. If asked, accept the fingerprint with ye
 
 From the challenge, we can infer that
 - username is 'ctf-player'
-- password is 84b12bae
+- password is '84b12bae'
 - hostname is 'titan.picoctf.net'
 - port number is 50400
 
 All you have to do is simply login using ssh. Define the port number using '-p' flag.
 
-```ssh
+```bash
 ssh ctf-player@titan.picoctf.net -p 50400
 ```
 Since you're connecting to this host first time. type 'yes' when prompted for connection confirmation.
