@@ -1,6 +1,6 @@
 ---
 title: "interencdec"
-date: 2024-06-06
+date: 2024-06-07
 categories: [Writeups]
 tags: [picoctf24,base64,caesar,cryptography]     # TAG names should always be lowercase
 ---
