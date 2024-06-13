@@ -1,6 +1,6 @@
 ---
 title: "Scan Surprise"
-date: 2024-06-07
+date: 2024-06-10
 categories: [Writeups]
 tags: [picoctf24,forensics,qr]     # TAG names should always be lowercase
 ---

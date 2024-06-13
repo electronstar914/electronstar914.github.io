@@ -1,6 +1,6 @@
 ---
 title: "Custom Encryption"
-date: 2024-06-08
+date: 2024-06-12
 categories: [Writeups]
 tags: [picoctf24,cryptography]     # TAG names should always be lowercase
 ---

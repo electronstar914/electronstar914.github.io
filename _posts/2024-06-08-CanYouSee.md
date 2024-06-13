@@ -1,6 +1,6 @@
 ---
 title: "CanYouSee"
-date: 2024-06-07
+date: 2024-06-08
 categories: [Writeups]
 tags: [picoctf24,forensics,cryptography,metadata]     # TAG names should always be lowercase
 ---
